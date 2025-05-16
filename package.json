@@ -21,11 +21,15 @@
   "devDependencies": {
     "concurrently": "^8.2.2",
     "nodemon": "^3.1.0",
-    "wait-on": "^7.2.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "wait-on": "^7.2.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
-    "bootstrap": "^5.3.3"
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
   }
 }
